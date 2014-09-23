@@ -1,0 +1,7 @@
+*.log
+.svn
+*.lock
+tmp/*
+log/*
+*.swp
+config/database.yml
